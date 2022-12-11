@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter Template with Tailwind CSS
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[Tailwind CSS](https://tailwindcss.com/) docs
+
 
 ## Setup
 
